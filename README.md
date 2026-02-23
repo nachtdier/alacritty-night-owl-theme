@@ -1,7 +1,7 @@
 # alacritty-night-owl-theme
 
 Port of @sdras night-owl vscode theme for alacritty. 
-Based on nik27's [night-owl-alacritty-theme[(https://github.com/nik27/night-owl-alacritty-theme)
+Based on nik27's [night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
 
 ## How to use
 
